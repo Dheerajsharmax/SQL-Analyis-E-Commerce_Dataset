@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Unit_Price
+P1000,Mobile 242,Electronics,Mobile,150.89,203.24
+P1001,Headphones 704,Electronics,Headphones,150.73,230.2
+P1002,Fiction 617,Books,Fiction,15.66,20.85
+P1003,Fitness 818,Sports,Fitness,116.64,190.08
+P1004,Outdoor 928,Sports,Outdoor,51.88,80.6
+P1005,Mobile 259,Electronics,Mobile,142.65,200.3
+P1006,Shoes 467,Apparel,Shoes,29.42,42.01
+P1007,Decor 570,Home & Kitchen,Decor,60.26,73.88
+P1008,Fitness 665,Sports,Fitness,194.89,278.13
+P1009,Decor 691,Home & Kitchen,Decor,127.52,218.95
+P1010,Jackets 891,Apparel,Jackets,23.22,37.08
+P1011,Cookware 489,Home & Kitchen,Cookware,172.51,296.7
+P1012,Furniture 479,Home & Kitchen,Furniture,130.78,185.56
+P1013,Cookware 799,Home & Kitchen,Cookware,137.33,222.62
+P1014,Headphones 350,Electronics,Headphones,130.65,198.65
+P1015,Shoes 755,Apparel,Shoes,82.1,147.26
+P1016,Fitness 894,Sports,Fitness,140.08,238.94
+P1017,Mobile 510,Electronics,Mobile,166.14,279.62
+P1018,Cookware 997,Home & Kitchen,Cookware,50.09,88.45
+P1019,Cookware 758,Home & Kitchen,Cookware,134.53,193.37
+P1020,Fiction 674,Books,Fiction,60.33,81.32
+P1021,Outdoor 697,Sports,Outdoor,151.93,221.37
+P1022,Non-fiction 621,Books,Non-fiction,51.67,92.93
+P1023,Fiction 256,Books,Fiction,153.6,263.68
+P1024,Jackets 490,Apparel,Jackets,90.21,111.69
+P1025,Outdoor 981,Sports,Outdoor,110.53,197.04
+P1026,Headphones 649,Electronics,Headphones,146.94,236.43
+P1027,Decor 261,Home & Kitchen,Decor,74.63,102.7
+P1028,Fiction 369,Books,Fiction,191.23,329.97
+P1029,Fitness 740,Sports,Fitness,106.46,134.55
+P1030,Decor 482,Home & Kitchen,Decor,106.46,140.46
+P1031,Jackets 100,Apparel,Jackets,191.16,335.19
+P1032,Outdoor 471,Sports,Outdoor,102.84,130.31
+P1033,Cookware 180,Home & Kitchen,Cookware,21.01,36.28
+P1034,Headphones 878,Electronics,Headphones,102.34,127.06
+P1035,Fitness 662,Sports,Fitness,34.39,51.07
+P1036,Shoes 316,Apparel,Shoes,110.26,172.44
+P1037,Accessories 508,Sports,Accessories,141.07,229.63
+P1038,Furniture 353,Home & Kitchen,Furniture,180.93,266.13
+P1039,Shirts 335,Apparel,Shirts,74.24,115.29
+P1040,Fitness 160,Sports,Fitness,11.37,18.47
+P1041,Shirts 172,Apparel,Shirts,182.03,312.32
+P1042,Fitness 652,Sports,Fitness,62.91,93.81
+P1043,Jackets 584,Apparel,Jackets,187.75,289.63
+P1044,Shoes 199,Apparel,Shoes,163.42,214.77
+P1045,Non-fiction 846,Books,Non-fiction,90.48,133.93
+P1046,Headphones 162,Electronics,Headphones,134.16,213.01
+P1047,Comics 354,Books,Comics,74.47,127.87
+P1048,Shirts 287,Apparel,Shirts,111.89,143.68
+P1049,Furniture 553,Home & Kitchen,Furniture,57.46,100.78
+P1050,Fitness 956,Sports,Fitness,19.61,35.29
+P1051,Mobile 270,Electronics,Mobile,186.01,317.93
+P1052,Non-fiction 160,Books,Non-fiction,101.46,174.39
+P1053,Shoes 902,Apparel,Shoes,10.41,14.93
+P1054,Non-fiction 902,Books,Non-fiction,90.37,160.35
+P1055,Accessories 403,Sports,Accessories,146.5,189.41
+P1056,Shirts 865,Apparel,Shirts,120.04,183.1
+P1057,Cookware 973,Home & Kitchen,Cookware,19.53,29.02
+P1058,Fitness 971,Sports,Fitness,20.81,31.31
+P1059,Shirts 340,Apparel,Shirts,123.06,197.53
+P1060,Fiction 692,Books,Fiction,188.9,291.25
+P1061,Fitness 697,Sports,Fitness,127.68,185.33
+P1062,Accessories 785,Sports,Accessories,70.11,95.1
+P1063,Cookware 760,Home & Kitchen,Cookware,60.47,77.31
+P1064,Furniture 174,Home & Kitchen,Furniture,70.07,115.69
+P1065,Laptop 202,Electronics,Laptop,128.02,196.87
+P1066,Headphones 457,Electronics,Headphones,50.5,68.64
+P1067,Mobile 953,Electronics,Mobile,80.21,103.84
+P1068,Accessories 926,Sports,Accessories,67.48,120.81
+P1069,Fitness 779,Sports,Fitness,136.89,209.82
+P1070,Mobile 860,Electronics,Mobile,60.25,104.46
+P1071,Fitness 834,Sports,Fitness,61.75,96.51
+P1072,Cookware 617,Home & Kitchen,Cookware,140.62,240.71
+P1073,Non-fiction 194,Books,Non-fiction,182.01,310.81
+P1074,Non-fiction 233,Books,Non-fiction,18.38,25.73
+P1075,Cookware 537,Home & Kitchen,Cookware,150.83,230.92
+P1076,Fitness 807,Sports,Fitness,31.26,55.24
+P1077,Jackets 665,Apparel,Jackets,16.85,23.95
+P1078,Shoes 915,Apparel,Shoes,34.21,47.38
+P1079,Laptop 205,Electronics,Laptop,49.91,67.36
+P1080,Decor 735,Home & Kitchen,Decor,177.99,256.99
+P1081,Shirts 930,Apparel,Shirts,174.28,311.22
+P1082,Shoes 440,Apparel,Shoes,14.71,24.15
+P1083,Comics 373,Books,Comics,174.17,293.73
+P1084,Jackets 979,Apparel,Jackets,30.54,52.63
+P1085,Fiction 458,Books,Fiction,47.92,83.91
+P1086,Cookware 508,Home & Kitchen,Cookware,52.36,83.57
+P1087,Furniture 385,Home & Kitchen,Furniture,174.23,310.15
+P1088,Decor 963,Home & Kitchen,Decor,106.79,171.69
+P1089,Outdoor 367,Sports,Outdoor,188.46,239.19
+P1090,Jackets 211,Apparel,Jackets,192.88,262.18
+P1091,Outdoor 546,Sports,Outdoor,75.68,126.53
+P1092,Accessories 294,Sports,Accessories,31.97,55.62
+P1093,Cookware 925,Home & Kitchen,Cookware,144.67,173.75
+P1094,Accessories 786,Sports,Accessories,146.69,241.33
+P1095,Shoes 438,Apparel,Shoes,91.95,162.69
+P1096,Outdoor 407,Sports,Outdoor,136.04,173.42
+P1097,Outdoor 813,Sports,Outdoor,136.71,190.81
+P1098,Decor 488,Home & Kitchen,Decor,34.18,49.64
+P1099,Jackets 953,Apparel,Jackets,118.13,170.54
+P1100,Laptop 693,Electronics,Laptop,64.51,94.05
+P1101,Accessories 791,Sports,Accessories,71.23,104.36
+P1102,Jackets 915,Apparel,Jackets,99.91,173.91
+P1103,Jackets 748,Apparel,Jackets,26.11,39.41
+P1104,Outdoor 340,Sports,Outdoor,27.74,49.13
+P1105,Cookware 147,Home & Kitchen,Cookware,163.25,210.33
+P1106,Shoes 566,Apparel,Shoes,126.14,209.53
+P1107,Comics 493,Books,Comics,119.38,194.71
+P1108,Non-fiction 105,Books,Non-fiction,56.36,89.82
+P1109,Laptop 812,Electronics,Laptop,51.58,86.78
+P1110,Outdoor 968,Sports,Outdoor,19.54,26.37
+P1111,Laptop 643,Electronics,Laptop,35.33,52.25
+P1112,Accessories 553,Sports,Accessories,70.29,116.2
+P1113,Accessories 661,Sports,Accessories,179.48,261.33
+P1114,Fiction 365,Books,Fiction,151.29,224.64
+P1115,Jackets 596,Apparel,Jackets,62.69,104.48
+P1116,Shoes 340,Apparel,Shoes,93.58,152.36
+P1117,Furniture 241,Home & Kitchen,Furniture,70.74,107.81
+P1118,Shirts 319,Apparel,Shirts,82.78,106.93
+P1119,Laptop 525,Electronics,Laptop,87.44,133.4
+P1120,Mobile 888,Electronics,Mobile,168.25,241.22
+P1121,Accessories 689,Sports,Accessories,13.71,23.7
+P1122,Non-fiction 871,Books,Non-fiction,11.12,15.69
+P1123,Non-fiction 919,Books,Non-fiction,112.26,184.19
+P1124,Fitness 597,Sports,Fitness,102.76,140.14
+P1125,Laptop 514,Electronics,Laptop,73.86,118.73
+P1126,Shoes 646,Apparel,Shoes,184.71,330.34
+P1127,Laptop 185,Electronics,Laptop,122.46,195.67
+P1128,Fiction 366,Books,Fiction,174.7,228.69
+P1129,Non-fiction 879,Books,Non-fiction,50.22,70.11
+P1130,Non-fiction 358,Books,Non-fiction,152.88,259.77
+P1131,Laptop 458,Electronics,Laptop,13.68,20.84
+P1132,Jackets 141,Apparel,Jackets,23.04,40.88
+P1133,Mobile 256,Electronics,Mobile,47.88,58.04
+P1134,Shirts 323,Apparel,Shirts,99.98,126.84
+P1135,Comics 720,Books,Comics,58.69,83.42
+P1136,Accessories 267,Sports,Accessories,146.49,244.15
+P1137,Cookware 689,Home & Kitchen,Cookware,119.95,210.79
+P1138,Non-fiction 706,Books,Non-fiction,188.88,249.13
+P1139,Shirts 800,Apparel,Shirts,142.47,196.74
+P1140,Fitness 142,Sports,Fitness,161.28,248.3
+P1141,Decor 618,Home & Kitchen,Decor,91.39,129.99
+P1142,Cookware 208,Home & Kitchen,Cookware,171.42,290.28
+P1143,Non-fiction 824,Books,Non-fiction,130.76,221.93
+P1144,Shoes 766,Apparel,Shoes,43.47,65.77
+P1145,Decor 595,Home & Kitchen,Decor,163.56,249.09
+P1146,Non-fiction 430,Books,Non-fiction,166.89,259.59
+P1147,Shirts 868,Apparel,Shirts,63,92.64
+P1148,Comics 129,Books,Comics,125.96,179.79
+P1149,Non-fiction 916,Books,Non-fiction,44.55,59.13
+P1150,Furniture 382,Home & Kitchen,Furniture,63.14,98.35
+P1151,Fitness 347,Sports,Fitness,108.16,142.19
+P1152,Non-fiction 587,Books,Non-fiction,115.48,155.23
+P1153,Non-fiction 326,Books,Non-fiction,160.66,201.76
+P1154,Comics 477,Books,Comics,56.23,89.88
+P1155,Comics 863,Books,Comics,110.88,161.36
+P1156,Outdoor 413,Sports,Outdoor,76.84,113.13
+P1157,Cookware 222,Home & Kitchen,Cookware,32.92,43.31
+P1158,Accessories 595,Sports,Accessories,45.18,60.08
+P1159,Decor 711,Home & Kitchen,Decor,122.02,202.08
+P1160,Cookware 469,Home & Kitchen,Cookware,168.2,231.74
+P1161,Shoes 380,Apparel,Shoes,12.69,19.29
+P1162,Mobile 229,Electronics,Mobile,115.14,186.35
+P1163,Fiction 580,Books,Fiction,175.82,271.54
+P1164,Non-fiction 358,Books,Non-fiction,74.73,132.97
+P1165,Fiction 175,Books,Fiction,166.2,239.4
+P1166,Accessories 930,Sports,Accessories,140.43,181.3
+P1167,Outdoor 671,Sports,Outdoor,26.18,35.31
+P1168,Comics 894,Books,Comics,123.26,193.65
+P1169,Outdoor 980,Sports,Outdoor,95.6,140.11
+P1170,Outdoor 724,Sports,Outdoor,68.02,106.97
+P1171,Mobile 183,Electronics,Mobile,128.85,175.08
+P1172,Shirts 102,Apparel,Shirts,43.02,53.56
+P1173,Non-fiction 133,Books,Non-fiction,140.98,208.92
+P1174,Shoes 564,Apparel,Shoes,144.32,234.06
+P1175,Headphones 910,Electronics,Headphones,54.35,73.85
+P1176,Accessories 217,Sports,Accessories,162.74,214.6
+P1177,Fitness 946,Sports,Fitness,133.05,232.18
+P1178,Shirts 709,Apparel,Shirts,21.33,35.74
+P1179,Outdoor 411,Sports,Outdoor,93.44,138.41
+P1180,Non-fiction 182,Books,Non-fiction,105.09,157.24
+P1181,Fitness 718,Sports,Fitness,178.99,293.67
+P1182,Cookware 956,Home & Kitchen,Cookware,27.35,48.6
+P1183,Accessories 788,Sports,Accessories,190.65,343.12
+P1184,Decor 581,Home & Kitchen,Decor,17.64,29.17
+P1185,Accessories 699,Sports,Accessories,94.02,128.52
+P1186,Comics 581,Books,Comics,164.71,293.42
+P1187,Furniture 978,Home & Kitchen,Furniture,73.33,117.48
+P1188,Shoes 778,Apparel,Shoes,88.21,132.08
+P1189,Comics 358,Books,Comics,16.97,21.26
+P1190,Cookware 626,Home & Kitchen,Cookware,194.34,280.34
+P1191,Headphones 155,Electronics,Headphones,175.18,258.77
+P1192,Jackets 740,Apparel,Jackets,78.74,130.23
+P1193,Fiction 394,Books,Fiction,48.68,74.46
+P1194,Comics 745,Books,Comics,102.1,124.29
+P1195,Fitness 114,Sports,Fitness,144.86,200.84
+P1196,Outdoor 216,Sports,Outdoor,27.71,49.75
+P1197,Fiction 833,Books,Fiction,133.06,171.96
+P1198,Decor 594,Home & Kitchen,Decor,144.03,208.74
+P1199,Fiction 295,Books,Fiction,96.79,124.55
+P1200,Accessories 171,Sports,Accessories,151.8,194.59
+P1201,Furniture 373,Home & Kitchen,Furniture,74.58,124.74
+P1202,Laptop 693,Electronics,Laptop,147.95,251.88
+P1203,Fiction 440,Books,Fiction,94.84,141.37
+P1204,Accessories 990,Sports,Accessories,81.67,143.72
+P1205,Jackets 976,Apparel,Jackets,55.37,79.17
+P1206,Fiction 930,Books,Fiction,70.45,104.53
+P1207,Non-fiction 767,Books,Non-fiction,197.8,331.4
+P1208,Shoes 704,Apparel,Shoes,193.32,246.63
+P1209,Cookware 638,Home & Kitchen,Cookware,176.1,257.84
+P1210,Fiction 770,Books,Fiction,147.26,212.94
+P1211,Shirts 446,Apparel,Shirts,99.2,176.73
+P1212,Accessories 436,Sports,Accessories,85.52,106.75
+P1213,Outdoor 877,Sports,Outdoor,191.29,301.49
+P1214,Comics 746,Books,Comics,16.82,20.87
+P1215,Cookware 200,Home & Kitchen,Cookware,151.89,221.82
+P1216,Laptop 129,Electronics,Laptop,41.61,57.41
+P1217,Laptop 483,Electronics,Laptop,161.27,221.91
+P1218,Fiction 798,Books,Fiction,56.4,81.62
+P1219,Shirts 491,Apparel,Shirts,43.26,67.73
+P1220,Accessories 246,Sports,Accessories,55.76,97.45
+P1221,Shoes 782,Apparel,Shoes,131.2,193.62
+P1222,Laptop 261,Electronics,Laptop,181.23,291.16
+P1223,Laptop 406,Electronics,Laptop,189.59,339.86
+P1224,Comics 303,Books,Comics,57.52,98.2
+P1225,Non-fiction 467,Books,Non-fiction,30.26,43.24
+P1226,Outdoor 949,Sports,Outdoor,198.61,273.51
+P1227,Non-fiction 896,Books,Non-fiction,11.54,19.84
+P1228,Headphones 393,Electronics,Headphones,151.58,257.64
+P1229,Jackets 294,Apparel,Jackets,162.37,216.18
+P1230,Outdoor 775,Sports,Outdoor,138.78,226.57
+P1231,Jackets 140,Apparel,Jackets,28.46,44.87
+P1232,Furniture 234,Home & Kitchen,Furniture,16.34,23.19
+P1233,Laptop 305,Electronics,Laptop,72.08,104.47
+P1234,Jackets 613,Apparel,Jackets,176.53,250.59
+P1235,Cookware 593,Home & Kitchen,Cookware,58.82,99.69
+P1236,Decor 579,Home & Kitchen,Decor,175.38,295.08
+P1237,Mobile 792,Electronics,Mobile,153.29,204.7
+P1238,Comics 114,Books,Comics,79.5,133.12
+P1239,Decor 866,Home & Kitchen,Decor,33.48,47.58
+P1240,Decor 480,Home & Kitchen,Decor,82.39,130.43
+P1241,Headphones 674,Electronics,Headphones,54.43,66.13
+P1242,Decor 943,Home & Kitchen,Decor,52.06,64.45
+P1243,Comics 243,Books,Comics,67.42,97.42
+P1244,Mobile 199,Electronics,Mobile,67.83,101.44
+P1245,Jackets 786,Apparel,Jackets,35.78,52.67
+P1246,Outdoor 524,Sports,Outdoor,121.59,198.92
+P1247,Laptop 386,Electronics,Laptop,126.97,223.9
+P1248,Headphones 341,Electronics,Headphones,80.4,117.87
+P1249,Cookware 760,Home & Kitchen,Cookware,196.38,278.94
+P1250,Cookware 225,Home & Kitchen,Cookware,85.65,112.53
+P1251,Fiction 711,Books,Fiction,135.93,215.45
+P1252,Mobile 228,Electronics,Mobile,159.49,214.7
+P1253,Fitness 312,Sports,Fitness,23.04,38.23
+P1254,Fitness 892,Sports,Fitness,164.48,220.37
+P1255,Jackets 248,Apparel,Jackets,10.54,18.08
+P1256,Jackets 776,Apparel,Jackets,57.62,75.18
+P1257,Mobile 343,Electronics,Mobile,12.82,21.46
+P1258,Outdoor 229,Sports,Outdoor,13,17.67
+P1259,Comics 559,Books,Comics,31.59,39.11
+P1260,Decor 326,Home & Kitchen,Decor,122.8,180.66
+P1261,Fitness 774,Sports,Fitness,148.18,258.61
+P1262,Outdoor 162,Sports,Outdoor,97.03,172.56
+P1263,Non-fiction 829,Books,Non-fiction,90.99,115.08
+P1264,Fiction 251,Books,Fiction,180.86,251.99
+P1265,Mobile 661,Electronics,Mobile,62.25,98.35
+P1266,Furniture 564,Home & Kitchen,Furniture,198.98,302.12
+P1267,Accessories 217,Sports,Accessories,91.74,153.74
+P1268,Accessories 333,Sports,Accessories,174.44,254.34
+P1269,Non-fiction 847,Books,Non-fiction,167.21,240.66
+P1270,Laptop 483,Electronics,Laptop,91.09,145.66
+P1271,Jackets 951,Apparel,Jackets,185.37,229.91
+P1272,Mobile 481,Electronics,Mobile,92.06,151.6
+P1273,Jackets 675,Apparel,Jackets,21.4,37.96
+P1274,Decor 781,Home & Kitchen,Decor,33.22,46.91
+P1275,Comics 419,Books,Comics,19.77,27.14
+P1276,Cookware 772,Home & Kitchen,Cookware,119.8,159.05
+P1277,Fiction 669,Books,Fiction,170.98,241.09
+P1278,Cookware 926,Home & Kitchen,Cookware,154.9,239.24
+P1279,Comics 728,Books,Comics,195.16,330.03
+P1280,Fitness 810,Sports,Fitness,125.71,200.47
+P1281,Cookware 416,Home & Kitchen,Cookware,44.28,71.81
+P1282,Furniture 679,Home & Kitchen,Furniture,11.16,19.22
+P1283,Fiction 131,Books,Fiction,36.96,58.39
+P1284,Headphones 564,Electronics,Headphones,110.79,157.96
+P1285,Cookware 895,Home & Kitchen,Cookware,80.31,131.14
+P1286,Accessories 261,Sports,Accessories,26.14,32.19
+P1287,Fitness 777,Sports,Fitness,138.05,188.2
+P1288,Non-fiction 320,Books,Non-fiction,125.34,181.56
+P1289,Fitness 794,Sports,Fitness,75.58,95.72
+P1290,Outdoor 325,Sports,Outdoor,110.12,152.52
+P1291,Comics 316,Books,Comics,20.41,27
+P1292,Shoes 609,Apparel,Shoes,64.99,82.67
+P1293,Fiction 335,Books,Fiction,34.55,52.5
+P1294,Accessories 173,Sports,Accessories,168.34,283.44
+P1295,Comics 179,Books,Comics,18.04,21.85
+P1296,Decor 755,Home & Kitchen,Decor,91.56,132.09
+P1297,Non-fiction 432,Books,Non-fiction,31.88,38.65
+P1298,Jackets 470,Apparel,Jackets,97.42,157.21
+P1299,Laptop 703,Electronics,Laptop,170.45,229.42
+P1300,Comics 863,Books,Comics,24.94,42.95
+P1301,Cookware 622,Home & Kitchen,Cookware,73.28,95.33
+P1302,Headphones 457,Electronics,Headphones,106.89,186.37
+P1303,Decor 251,Home & Kitchen,Decor,192.06,304.85
+P1304,Shirts 716,Apparel,Shirts,37.82,49.86
+P1305,Jackets 743,Apparel,Jackets,24.32,43.07
+P1306,Non-fiction 559,Books,Non-fiction,153.34,253.92
+P1307,Accessories 984,Sports,Accessories,130.71,205.83
+P1308,Cookware 746,Home & Kitchen,Cookware,93.55,138.58
+P1309,Furniture 175,Home & Kitchen,Furniture,122.37,172.68
+P1310,Furniture 951,Home & Kitchen,Furniture,95.86,118.3
+P1311,Cookware 192,Home & Kitchen,Cookware,132.49,236.68
+P1312,Accessories 667,Sports,Accessories,106.34,157.13
+P1313,Laptop 292,Electronics,Laptop,182.72,281.94
+P1314,Decor 163,Home & Kitchen,Decor,100.37,129.53
+P1315,Fiction 831,Books,Fiction,164.08,279.33
+P1316,Headphones 824,Electronics,Headphones,132.76,162.43
+P1317,Non-fiction 472,Books,Non-fiction,109.57,171.57
+P1318,Furniture 795,Home & Kitchen,Furniture,83.61,139.18
+P1319,Fitness 167,Sports,Fitness,159.95,254.06
+P1320,Cookware 358,Home & Kitchen,Cookware,116.01,166.12
+P1321,Fitness 244,Sports,Fitness,73.34,113.65
+P1322,Furniture 501,Home & Kitchen,Furniture,193.86,313.88
+P1323,Jackets 672,Apparel,Jackets,144.68,180.97
+P1324,Comics 786,Books,Comics,160.42,270.77
+P1325,Fitness 470,Sports,Fitness,132.74,193.01
+P1326,Laptop 449,Electronics,Laptop,68.68,121.61
+P1327,Fiction 179,Books,Fiction,53.04,68.03
+P1328,Cookware 856,Home & Kitchen,Cookware,106.46,162.23
+P1329,Fitness 732,Sports,Fitness,135.77,234.32
+P1330,Jackets 951,Apparel,Jackets,81.58,105.84
+P1331,Fitness 473,Sports,Fitness,147.02,180.28
+P1332,Shoes 902,Apparel,Shoes,126.01,208.1
+P1333,Fiction 928,Books,Fiction,111.46,154.45
+P1334,Fiction 551,Books,Fiction,79.89,141.27
+P1335,Non-fiction 528,Books,Non-fiction,157.84,237.04
+P1336,Shirts 356,Apparel,Shirts,162.24,208.16
+P1337,Headphones 205,Electronics,Headphones,101.31,144.14
+P1338,Fitness 379,Sports,Fitness,64.16,106.37
+P1339,Comics 327,Books,Comics,38,55.57
+P1340,Non-fiction 505,Books,Non-fiction,186.79,270.65
+P1341,Outdoor 483,Sports,Outdoor,54.8,98.46
+P1342,Shirts 831,Apparel,Shirts,70.55,88.85
+P1343,Cookware 949,Home & Kitchen,Cookware,36.14,49.59
+P1344,Comics 580,Books,Comics,167.91,277.94
+P1345,Comics 362,Books,Comics,11,13.72
+P1346,Shirts 640,Apparel,Shirts,114.27,186.98
+P1347,Fiction 224,Books,Fiction,157.47,211.42
+P1348,Mobile 568,Electronics,Mobile,89.77,150.48
+P1349,Mobile 648,Electronics,Mobile,168.97,253.44
+P1350,Headphones 247,Electronics,Headphones,107.92,145.17
+P1351,Furniture 684,Home & Kitchen,Furniture,10.3,14.54
+P1352,Fiction 469,Books,Fiction,136.23,170.47
+P1353,Headphones 619,Electronics,Headphones,113.38,189.55
+P1354,Fitness 750,Sports,Fitness,84.19,124.78
+P1355,Non-fiction 907,Books,Non-fiction,58.19,70.4
+P1356,Laptop 206,Electronics,Laptop,55.81,88.98
+P1357,Accessories 460,Sports,Accessories,153.77,196.83
+P1358,Outdoor 897,Sports,Outdoor,164.57,214.77
+P1359,Comics 238,Books,Comics,100.92,132.14
+P1360,Headphones 400,Electronics,Headphones,157.48,232.22
+P1361,Shirts 423,Apparel,Shirts,160.31,277.57
+P1362,Decor 584,Home & Kitchen,Decor,85.66,144.7
+P1363,Cookware 465,Home & Kitchen,Cookware,153.13,201.31
+P1364,Headphones 476,Electronics,Headphones,73.07,93.14
+P1365,Non-fiction 495,Books,Non-fiction,151.23,262.65
+P1366,Cookware 916,Home & Kitchen,Cookware,104.28,156.27
+P1367,Outdoor 180,Sports,Outdoor,162.22,265.43
+P1368,Comics 400,Books,Comics,199.07,260.44
+P1369,Cookware 413,Home & Kitchen,Cookware,25.21,40.25
+P1370,Comics 554,Books,Comics,146.36,190.27
+P1371,Furniture 461,Home & Kitchen,Furniture,18.05,31.08
+P1372,Outdoor 158,Sports,Outdoor,62.17,111.16
+P1373,Headphones 920,Electronics,Headphones,131.13,185.94
+P1374,Shirts 900,Apparel,Shirts,37.13,58.09
+P1375,Fiction 760,Books,Fiction,33.98,45.59
+P1376,Furniture 719,Home & Kitchen,Furniture,82.74,127.45
+P1377,Jackets 554,Apparel,Jackets,95.49,135.84
+P1378,Headphones 421,Electronics,Headphones,36.16,51.35
+P1379,Cookware 290,Home & Kitchen,Cookware,192.5,233.99
+P1380,Comics 368,Books,Comics,83.53,128.39
+P1381,Decor 392,Home & Kitchen,Decor,94.79,170.42
+P1382,Fiction 562,Books,Fiction,33.3,57
+P1383,Jackets 798,Apparel,Jackets,94.57,118.47
+P1384,Decor 655,Home & Kitchen,Decor,76.01,94.17
+P1385,Furniture 817,Home & Kitchen,Furniture,171.76,279.47
+P1386,Shoes 305,Apparel,Shoes,106.66,135.76
+P1387,Shirts 667,Apparel,Shirts,160.17,194.73
+P1388,Outdoor 232,Sports,Outdoor,98.81,176.85
+P1389,Fitness 834,Sports,Fitness,22.49,32.36
+P1390,Comics 688,Books,Comics,88.05,127.29
+P1391,Mobile 560,Electronics,Mobile,194.75,308.76
+P1392,Comics 948,Books,Comics,108.3,138.3
+P1393,Accessories 232,Sports,Accessories,121.68,202.07
+P1394,Comics 227,Books,Comics,183.04,225.73
+P1395,Fitness 826,Sports,Fitness,67.78,87.92
+P1396,Shoes 390,Apparel,Shoes,190.02,287.18
+P1397,Laptop 381,Electronics,Laptop,47.3,83.9
+P1398,Jackets 614,Apparel,Jackets,67.54,102.67
+P1399,Jackets 774,Apparel,Jackets,188.91,244.17
+P1400,Accessories 677,Sports,Accessories,181.38,254.4
+P1401,Mobile 889,Electronics,Mobile,25.43,44.99
+P1402,Outdoor 526,Sports,Outdoor,133.71,221.98
+P1403,Accessories 658,Sports,Accessories,15.75,27.3
+P1404,Decor 924,Home & Kitchen,Decor,191.76,285.68
+P1405,Non-fiction 261,Books,Non-fiction,96.17,155.14
+P1406,Non-fiction 721,Books,Non-fiction,102.01,134.9
+P1407,Shoes 981,Apparel,Shoes,173.68,241.69
+P1408,Furniture 675,Home & Kitchen,Furniture,34.85,49.57
+P1409,Laptop 560,Electronics,Laptop,55.93,71.23
+P1410,Shirts 493,Apparel,Shirts,28.39,39.01
+P1411,Outdoor 263,Sports,Outdoor,57.17,98.29
+P1412,Decor 263,Home & Kitchen,Decor,147.01,193.16
+P1413,Comics 609,Books,Comics,98.69,170.48
+P1414,Mobile 346,Electronics,Mobile,189.59,285
+P1415,Jackets 606,Apparel,Jackets,77.05,94.8
+P1416,Accessories 108,Sports,Accessories,137.78,188.96
+P1417,Laptop 474,Electronics,Laptop,35.45,48.17
+P1418,Non-fiction 675,Books,Non-fiction,18.6,22.89
+P1419,Shoes 616,Apparel,Shoes,115.11,143.21
+P1420,Comics 796,Books,Comics,63.15,113.26
+P1421,Fitness 482,Sports,Fitness,34.45,43.34
+P1422,Decor 303,Home & Kitchen,Decor,188.4,311.42
+P1423,Accessories 139,Sports,Accessories,86.26,105.6
+P1424,Jackets 567,Apparel,Jackets,73.28,108.77
+P1425,Jackets 727,Apparel,Jackets,179.7,230.71
+P1426,Cookware 962,Home & Kitchen,Cookware,84.66,132.91
+P1427,Decor 645,Home & Kitchen,Decor,73.91,125.42
+P1428,Comics 117,Books,Comics,116.96,173.68
+P1429,Furniture 697,Home & Kitchen,Furniture,138.02,246.77
+P1430,Decor 711,Home & Kitchen,Decor,175.7,277.18
+P1431,Non-fiction 894,Books,Non-fiction,193.74,323.5
+P1432,Accessories 591,Sports,Accessories,53.23,65.52
+P1433,Jackets 961,Apparel,Jackets,129.51,203.57
+P1434,Fiction 686,Books,Fiction,166.12,223.48
+P1435,Mobile 255,Electronics,Mobile,13.6,18.88
+P1436,Comics 726,Books,Comics,48.74,73.16
+P1437,Comics 631,Books,Comics,148.21,240.61
+P1438,Jackets 638,Apparel,Jackets,71.76,114.62
+P1439,Non-fiction 645,Books,Non-fiction,191.77,283.01
+P1440,Decor 838,Home & Kitchen,Decor,77.31,128.58
+P1441,Decor 385,Home & Kitchen,Decor,101.99,180.97
+P1442,Outdoor 404,Sports,Outdoor,52.72,94.04
+P1443,Decor 424,Home & Kitchen,Decor,49.38,80.14
+P1444,Non-fiction 838,Books,Non-fiction,116.49,205.1
+P1445,Furniture 488,Home & Kitchen,Furniture,33.16,53.25
+P1446,Non-fiction 397,Books,Non-fiction,191.38,322.05
+P1447,Laptop 552,Electronics,Laptop,191.51,238.89
+P1448,Decor 651,Home & Kitchen,Decor,101.03,133.48
+P1449,Decor 730,Home & Kitchen,Decor,142.27,182.44
+P1450,Fitness 643,Sports,Fitness,56.07,89.82
+P1451,Jackets 438,Apparel,Jackets,54.24,68.35
+P1452,Fiction 663,Books,Fiction,139.43,178.82
+P1453,Shoes 587,Apparel,Shoes,134.05,231.69
+P1454,Comics 428,Books,Comics,47.9,85.18
+P1455,Decor 767,Home & Kitchen,Decor,21.24,35.28
+P1456,Fitness 138,Sports,Fitness,111.68,182.47
+P1457,Shoes 137,Apparel,Shoes,177.63,231.89
+P1458,Non-fiction 993,Books,Non-fiction,45.4,74.88
+P1459,Cookware 209,Home & Kitchen,Cookware,11.76,18.12
+P1460,Furniture 636,Home & Kitchen,Furniture,96.33,152.66
+P1461,Fiction 297,Books,Fiction,171.7,254.26
+P1462,Laptop 363,Electronics,Laptop,40.87,60.3
+P1463,Shirts 681,Apparel,Shirts,149.96,251.1
+P1464,Shirts 515,Apparel,Shirts,126.08,199.61
+P1465,Comics 197,Books,Comics,72.31,104.16
+P1466,Shirts 106,Apparel,Shirts,100.72,177.42
+P1467,Furniture 437,Home & Kitchen,Furniture,54.75,90.46
+P1468,Decor 769,Home & Kitchen,Decor,147.35,177.83
+P1469,Decor 576,Home & Kitchen,Decor,54.9,87.88
+P1470,Cookware 820,Home & Kitchen,Cookware,87.03,130.68
+P1471,Decor 402,Home & Kitchen,Decor,32.31,56.53
+P1472,Decor 589,Home & Kitchen,Decor,51.96,92.2
+P1473,Shoes 525,Apparel,Shoes,152.07,237.75
+P1474,Outdoor 945,Sports,Outdoor,153.9,258.74
+P1475,Shirts 906,Apparel,Shirts,139.26,216.9
+P1476,Headphones 179,Electronics,Headphones,94.88,153.92
+P1477,Fitness 617,Sports,Fitness,21.73,33.22
+P1478,Jackets 974,Apparel,Jackets,111.97,145.42
+P1479,Outdoor 697,Sports,Outdoor,32.09,42.46
+P1480,Fiction 156,Books,Fiction,180.79,265.27
+P1481,Fiction 159,Books,Fiction,107.52,158.49
+P1482,Outdoor 122,Sports,Outdoor,137.83,190.88
+P1483,Non-fiction 692,Books,Non-fiction,165.13,272.05
+P1484,Mobile 654,Electronics,Mobile,90.5,146.63
+P1485,Mobile 393,Electronics,Mobile,197.37,292.75
+P1486,Fiction 846,Books,Fiction,156.1,259.05
+P1487,Non-fiction 990,Books,Non-fiction,198.64,283.95
+P1488,Non-fiction 995,Books,Non-fiction,25.25,44.91
+P1489,Fitness 282,Sports,Fitness,134.17,189
+P1490,Outdoor 328,Sports,Outdoor,110.48,180.82
+P1491,Mobile 836,Electronics,Mobile,195.91,289.52
+P1492,Outdoor 353,Sports,Outdoor,111.07,188.15
+P1493,Non-fiction 996,Books,Non-fiction,39.47,51.83
+P1494,Mobile 884,Electronics,Mobile,163.8,237.76
+P1495,Mobile 134,Electronics,Mobile,49.16,61.97
+P1496,Comics 350,Books,Comics,137.68,237.27
+P1497,Laptop 872,Electronics,Laptop,93.4,142.33
+P1498,Mobile 935,Electronics,Mobile,105.74,145.24
+P1499,Outdoor 938,Sports,Outdoor,119.72,199.16
