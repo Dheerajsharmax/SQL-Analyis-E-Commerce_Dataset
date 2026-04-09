@@ -73,3 +73,40 @@ order by Quarters)
 
 select Quarters , productid, total_revenue,rnk from cte_rnk
 order by rnk;
+
+
+-- Q8 Quarter-wise Discount Impact(CASE + Aggregate)
+ select 
+ quarter(orderdate), 
+ avg(Discount) as Average_Discount 
+ from orders
+ group by   quarter(orderdate);
+
+
+ 
+ -- Q9 Region Performance Ranking
+select r.Region_Name, sum(o.revenue ) as Total_revenue,
+dense_rank() over(order by  sum(o.revenue ) ) as Rnk from orders o join region_info as r 
+on r.Region_Code= o.Region 
+group by r.Region_Name;
+
+
+
+
+-- Q10 10. Month-to-Month % Change in Number of Orders (LAG)
+
+with cte as (select Year(orderdate)as Years,
+month(orderdate) as Months, 
+sum(revenue) as Total_revenue,
+count(*) as Total_order_Qty
+from  orders
+group by  Year(orderdate), month(orderdate)
+order by   month(orderdate) )
+
+select Years , Months , Total_revenue, Total_order_Qty , lag(Total_order_Qty) over( order by years,months),
+(Total_order_Qty - lag(Total_order_Qty) over( order by years,months)) /lag(Total_order_Qty) over( order by years,months)*100 as Percentage from cte;
+
+
+
+
+Thank you 
